@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="classes\series.cs" />
+    <Content Include="classes\entidade.cs" />
+    <Content Include="Enum\Genero.cs" />
+    <Content Include="interfaces\Irepositorio.cs" />
+    <Content Include="classes\SerieRepositorio.cs" />
+  </ItemGroup>
+</Project>
